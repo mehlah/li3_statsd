@@ -1,0 +1,9 @@
+{
+    "name": "bruensicke/li3_statsd",
+    "type": "lithium-library",
+    "description": "StatsD client for Lithium",
+    "require": {
+        "php": ">=5.3",
+        "composer/installers": "*"
+    }
+}
